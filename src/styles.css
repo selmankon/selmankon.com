@@ -9,6 +9,12 @@ body {
   width: 90%;
   max-width: 60%;
   line-height: 1.8em;
-  font-size: 0.95em;
+  font-size:1vw;
   color: white;
+}
+
+@media screen and (max-width: 426px) {
+  body {
+    font-size:4vw;
+  }
 }
