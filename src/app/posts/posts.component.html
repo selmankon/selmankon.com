@@ -1,0 +1,7 @@
+<h2>Posts</h2>
+
+<ul class="posts">
+  <li *ngFor="let post of posts">
+    <strong>{{post.date}}</strong> / {{post.category}} / <a href="{{post.link}}" target="_blank">{{post.title}}</a>  ({{post.language}})
+  </li>
+</ul>

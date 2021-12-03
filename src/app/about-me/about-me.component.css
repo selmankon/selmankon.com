@@ -1,0 +1,26 @@
+img.about {
+  width: 25%;
+  border: .03rem dashed rgba(219, 219, 219, 0.9);
+  border-radius: 7px;
+  padding: .6rem;
+  display: block;
+  margin: 1.5rem auto;
+}
+
+p.about-text{
+  text-align:justify;
+}
+
+span.special-color-about-me{
+  color:#55ffc5;
+}
+
+a.special-color-about-me {
+  text-decoration: none;
+  color: #55ffc5;
+}
+
+a.special-color-about-me:hover {
+  background-color: #55ffc5;
+  color: black;
+}

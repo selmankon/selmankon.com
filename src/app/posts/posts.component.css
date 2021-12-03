@@ -1,0 +1,28 @@
+.posts {
+  margin-top: .1rem;
+}
+
+h2 {
+  margin: .8rem 0rem .2rem 0rem;
+  font-weight: bold;
+  font-size: 1.8em;
+}
+
+ul {
+  list-style: none;
+}
+
+ul>li:before {
+  content: "::";
+  margin-right: 5px;
+}
+
+a {
+  color: #55ffc5;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: black;
+  background-color: #55ffc5;
+}

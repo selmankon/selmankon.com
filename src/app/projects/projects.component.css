@@ -1,0 +1,42 @@
+.project {
+  margin-top: 1.2rem;
+  border: .03rem dashed rgba(219, 219, 219, 0.9);
+  border-radius: .4rem;
+  height: 9.5rem;
+}
+
+.project-img {
+  float: left;
+  width: 15%;
+  height: 90%;
+  border: .03rem dashed rgba(219, 219, 219, 0.9);
+  border-radius: .4rem;
+  padding: .6rem;
+  margin: .5rem;
+}
+
+.project-title {
+  margin: 1rem 0rem .1rem 13rem;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.project-text {
+  margin-left: 9.5rem;
+  margin-right: 1rem;
+  padding: .63rem;
+  margin-bottom: .2rem;
+  text-align:justify;
+}
+
+.project-url {
+  float: right;
+  margin-right: 3rem;
+  text-decoration: none;
+  color: #55ffc5;
+}
+
+.project-url:hover {
+  background-color: #55ffc5;
+  color: black;
+}

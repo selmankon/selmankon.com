@@ -1,0 +1,7 @@
+<div class="menu bg-black text-white">
+  <ul>
+    <li *ngFor = "let item of navbarItems">
+      <a routerLink="/{{item.link}}">{{item.name}}</a>
+    </li>
+  </ul>
+</div>
