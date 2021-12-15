@@ -1,14 +1,18 @@
+* {
+  font-size: .92rem;
+}
+
 .project {
   margin-top: 1.2rem;
   border: .03rem dashed rgba(219, 219, 219, 0.9);
   border-radius: .4rem;
-  height: 9.5rem;
+  height: 8rem;
 }
 
 .project-img {
   float: left;
-  width: 15%;
-  height: 90%;
+  width: 7rem;
+  height: 7rem;
   border: .03rem dashed rgba(219, 219, 219, 0.9);
   border-radius: .4rem;
   padding: .6rem;
@@ -16,9 +20,17 @@
 }
 
 .project-title {
-  margin: 1rem 0rem .1rem 13rem;
+  display:inline-block;
+  margin-left: 1rem;
+  margin-top: .4rem;
+  text-decoration: none;
   font-weight: bold;
   font-size: 1.2rem;
+  color: white;
+}
+.project-title:hover {
+  background-color: #55ffc5;
+  color: black;
 }
 
 .project-text {
@@ -29,22 +41,46 @@
   text-align:justify;
 }
 
-.project-url {
-  float: right;
-  margin-right: 3rem;
-  text-decoration: none;
-  color: #55ffc5;
+
+
+
+@media screen and (min-width: 426px) and (max-width: 765px) {
+  .project{
+    height: 14rem;
+  }
+  .project-img {
+    display: block;
+    margin-left: 40%;
+    margin-right: 40%;
+  }
+  .project-title{
+    margin: 0;
+    margin-left: 1.2rem;
+  }
+  .project-text {
+    margin: 0;
+    line-height: .9rem;
+    text-align:justify;
+  }
 }
 
-.project-url:hover {
-  background-color: #55ffc5;
-  color: black;
-}
-
-
-@media screen and (max-width: 1024px) {
-  * {
-    display: none;
+@media screen and (max-width: 426px) {
+  .project{
+    height: 16.5rem;
+  }
+  .project-img {
+    display: block;
+    margin-left: 35%;
+    margin-right: 40%;
+  }
+  .project-title{
+    margin: 0;
+    margin-left: 1.2rem;
+  }
+  .project-text {
+    margin: 0;
+    line-height: .9rem;
+    text-align:justify;
   }
 }
 

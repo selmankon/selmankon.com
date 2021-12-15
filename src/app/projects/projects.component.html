@@ -1,9 +1,8 @@
 <app-navbar></app-navbar>
 <div *ngFor="let project of projects" class="project">
   <img class="project-img" src="{{project.img}}">
-  <p class="project-title">{{project.title}}</p>
+  <a class="project-title" href="{{project.url}}" target="_blank">{{project.title}}</a>
   <p class="project-text">{{project.desc}}</p>
-  <a class="project-url" href="{{project.url}}" target="_blank">{{project.url}}</a>
 </div>
 
 <app-footer></app-footer>

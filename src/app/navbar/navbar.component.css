@@ -1,6 +1,19 @@
 .menu {
   border-top: dashed .03rem white;
   border-bottom: dashed .03rem white;
+  margin-top: .3rem;
+}
+
+.menu ul {
+  margin: .5rem auto;
+  padding-left: 0;
+  text-align: right;
+}
+
+.menu ul li {
+  display: inline;
+  margin-left: .8rem;
+  margin-right: .8rem;
 }
 
 .menu ul li a {
@@ -15,43 +28,22 @@
 
 @media screen and (min-width: 1024px) {
   .menu {
-    font-size: 1vw;
-  }
-
-  .menu ul {
-    margin-top: .5rem;
-    text-align: right;
-  }
-
-  .menu ul li {
-    display: inline;
-    margin-left: .8rem;
-    margin-right: .8rem;
-  }
-}
-
-@media screen and (min-width: 700px) and (max-width: 1024px) {
-  .menu {
-    font-size: 1.5vw;
-  }
-
-  .menu ul {
-    margin-top: .5rem;
-    padding-left: 0;
-    text-align: center;
-  }
-
-  .menu ul li {
-    display: inline;
-    margin-left: .8rem;
-    margin-right: .8rem;
+    font-size: .94rem;
   }
 
 }
 
-@media screen and (min-width: 425px) and (max-width: 700px) {
+@media screen and (min-width: 765px) and (max-width: 1024px) {
   .menu {
-    font-size: 3vw;
+    margin: .5rem auto;
+    font-size: .85rem;
+  }
+
+}
+
+@media screen and (min-width: 425px) and (max-width: 765px) {
+  .menu {
+    font-size: .85rem;
   }
 
   .menu ul {
@@ -69,13 +61,13 @@
 
 @media screen and (max-width: 426px) {
   .menu {
-    margin-top: .4rem;
-    font-size: 4vw;
+    font-size: .85rem;
+    line-height: 1rem;
   }
 
   .menu ul {
     padding-left: 0rem;
-    margin-bottom: 0rem;
+    margin-bottom: .5rem;
   }
 
   .menu ul li {

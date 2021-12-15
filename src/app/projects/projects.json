@@ -8,7 +8,7 @@
   {
     "title": "Graph Calculator",
     "img": "/assets/img/project-graphcalculator.png",
-    "desc": "An Python 3.x application that graphs the graphical representation of mathematical equations to the user via a visual interface with matplotlib, numpy, tkinter."
+    "desc": "A Python 3.x application that graphs the graphical representation of mathematical equations to the user via a visual interface with matplotlib, numpy, tkinter."
   },
   {
     "title": "LIIIs4ma.github.io",

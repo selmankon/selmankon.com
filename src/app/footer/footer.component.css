@@ -5,6 +5,7 @@ footer {
   padding-top: 10px;
   text-align: right;
   margin-bottom: 20px;
+  font-size: .9rem;
 }
 
 span>a {
@@ -71,5 +72,11 @@ span>a:hover {
   }
   50% {
     color: #55ffc5;
+  }
+}
+
+@media screen and (max-width: 765px) {
+  footer {
+    font-size: .8rem;
   }
 }

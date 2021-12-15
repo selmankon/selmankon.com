@@ -1,31 +1,23 @@
-@media screen and (min-width: 1024px) {
-  img.banner{
-    display: block;
-    margin: 1.2rem auto;
-    width: 50%;
-  }
+img.banner{
+  display: block;
+  margin: 1.2rem auto;
+  width: 50%;
 }
 
 @media screen and (min-width: 700px) and (max-width: 1024px) {
   img.banner{
-    display: block;
-    margin: 1.2rem auto;
     width: 70%;
   }
 }
 
 @media screen and (min-width: 425px) and (max-width: 700px) {
   img.banner{
-    display: block;
-    margin: 1.2rem auto;
     width: 80%;
   }
 }
 
 @media screen and (max-width: 426px) {
   img.banner{
-    display: block;
-    margin: 1.2rem auto;
     width: 90%;
   }
 }

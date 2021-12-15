@@ -9,6 +9,7 @@ img.about {
 
 p.about-text{
   text-align:justify;
+  font-size: .9rem;
 }
 
 span.special-color-about-me{
@@ -23,4 +24,24 @@ a.special-color-about-me {
 a.special-color-about-me:hover {
   background-color: #55ffc5;
   color: black;
+}
+
+@media screen and (max-width: 766px) {
+  img.about{
+    width: 70%;
+  }
+  p.about-text{
+    font-size: .7rem;
+    line-height: .8rem;
+  }
+}
+
+@media screen and (min-width: 765px) and (max-width: 1024px) {
+  img.about{
+    width: 30%;
+  }
+  p.about-text{
+    font-size: .9rem;
+    line-height: 1rem;
+  }
 }

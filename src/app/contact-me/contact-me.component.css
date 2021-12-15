@@ -9,6 +9,7 @@ img.contact-me-img {
 
 p.contact-me-text{
   text-align: center;
+  line-height: 1.6rem;
 }
 
 p.contact-me-text>a {
@@ -19,4 +20,17 @@ p.contact-me-text>a {
 p.contact-me-text>a:hover {
   background-color: #55ffc5;
   color: black;
+}
+
+
+
+@media screen and (max-width: 1024px) {
+  p.contact-me-text {
+    font-size: .7rem;
+  }
+}
+@media screen and (max-width: 766px) {
+  img.contact-me-img{
+    width: 70%;
+  }
 }
