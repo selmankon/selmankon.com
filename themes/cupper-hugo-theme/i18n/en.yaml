@@ -1,0 +1,28 @@
+- id: skip_to_content
+  translation: skip to content
+- id: nav_main_navigation
+  translation: main navigation
+- id: nav_button_menu
+  translation: menu
+- id: discuss_show_comments_button
+  translation: show comments
+- id: discuss_comments_disabled
+  translation: disqus comments are disabled.
+- id: discuss_js_disabled
+  translation: enable javaScript to view disqus comments.
+- id: dark_theme
+  translation: "dark theme:"
+- id: table_of_contents
+  translation: table of contents
+- id: publish_date
+  translation: "publish date:"
+- id: last_updated
+  translation: "last updated:"
+- id: tags
+  translation: "tags:"
+- id: aria_label_tags
+  translation: tags
+- id: search_placeholder
+  translation: search by title...
+- id: search_aria_label
+  translation: search by title
