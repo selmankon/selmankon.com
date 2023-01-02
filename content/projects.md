@@ -4,11 +4,11 @@ title: "projects"
 
 some of my projects are below.
 
-### webcrawler3003 w/Zekeriya Ay
+### webcrawler3003 w/zek
 
 webcrawler3003 is a website mapping and information gathering tool. still in progress.
 
-* https://github.com/ZekeriyaAY/webcrawler3003
+* https://github.com/zekeriyaay/webcrawler3003
 
 ### threader3003
 
