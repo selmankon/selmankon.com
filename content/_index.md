@@ -2,7 +2,7 @@
 title: "home"
 ---
 
-{{<cmd>}} sudo rm -rf 🍎{{</cmd>}}
+{{<cmd>}} sudo -u oliver rm -rf 🍎{{</cmd>}}
 
 {{<youtube GlOQnsVOa2o>}}
 
