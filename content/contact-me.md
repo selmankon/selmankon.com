@@ -6,8 +6,8 @@ title: "contact-me"
 
 **telegram:** [t.me/selmankon](https://t.me/selmankon)
 
-**discord:** LIII#9490
+**discord:** selmankon#0454
 
 **e-mail:** [mail@selmankon.com](mailto:mail@selmankon.com)
 
-**github:** [LIIIs4ma](https://github.com/LIIIs4ma)
+**github:** [selmankon](https://github.com/selmankon)
