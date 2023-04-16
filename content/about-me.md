@@ -6,10 +6,6 @@ selman konakçı aka selmankon
 
 cyber security specialist @ [Turkish Technology](https://www.turkishtechnology.com)
 
-#### certfs
-
-* ewptx
-
 #### research interest
 
 * application security
@@ -18,3 +14,7 @@ cyber security specialist @ [Turkish Technology](https://www.turkishtechnology.c
 * information security
 * web app development
 * cryptography & cryptanalysis
+
+#### certfs
+
+* ewptx
