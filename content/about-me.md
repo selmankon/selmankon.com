@@ -4,12 +4,17 @@ title: "about-me"
 
 selman konakçı aka selmankon
 
-* application security
-* penetration testing
-* security research
-* information security
-* vulnerability scanning & assessment
-* web app development
-* cryptography
+cyber security specialist @ [Turkish Technology](https://www.turkishtechnology.com)
 
-if you want to contact me, use the [contact-me](/contact-me) page.
+#### certfs
+
+* ewptx
+
+#### research interest
+
+* application security
+* exploit development
+* penetration testing
+* information security
+* web app development
+* cryptography & cryptanalysis
