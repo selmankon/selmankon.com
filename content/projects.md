@@ -4,33 +4,33 @@ title: "projects"
 
 some of my projects are below.
 
-### webcrawler3003 w/zek
+### c-honeypot & c-honeypot-panel w/zek
 
-webcrawler3003 is a website mapping and information gathering tool. still in progress.
+open one (or more) port containing honey with c-honeypot, and monitor the activities performed by attackers using c-honeypot-adminpanel.
 
-* https://github.com/zekeriyaay/webcrawler3003
+* https://github.com/selmankon/c-honeypot
+* https://github.com/selmankon/c-honeypot-adminpanel
 
 ### threader3003
 
-threader3003 is an alternate version of threader3000. A script written in Python3 that allows multi-threaded full port scanning in 15 seconds.
+multi-threaded port scan helper tool for ctfs.
 
 * https://github.com/selmankon/threader3003
 
 ### csrf-poc-generator-26
 
-generate a cross-site request forgery (CSRF) attack proof-of-concept (PoC) form for a given request in online. 
+generate a csrf attack proof-of-concept form for a given request in online. 
 
 * https://github.com/selmankon/CSRF-PoC-Generator-26
 
 ### igAnalyzer
 
-find non-followers and potential stalkers.
+find non-followers and potential stalkers. 
 
 * https://github.com/selmankon/igAnalyzer
 
 
 ### graph calculator
 
-a python 3.x application that graphs the graphical representation of mathematical equations to the user via a visual interface with matplotlib, numpy, tkinter.
-
+create graphs the graphical representation of mathematical equations to the user via a visual interface with matplotlib, numpy, tkinter.
 
