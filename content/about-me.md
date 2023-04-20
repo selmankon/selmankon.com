@@ -15,6 +15,6 @@ cyber security specialist @ [Turkish Technology](https://www.turkishtechnology.c
 * web app development
 * cryptography & cryptanalysis
 
-#### certfs
+#### certs
 
 * ewptx
