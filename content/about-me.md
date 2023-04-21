@@ -17,4 +17,4 @@ cyber security specialist @ [Turkish Technology](https://www.turkishtechnology.c
 
 #### certs
 
-* ewptx
+* [ewptx](https://verified.elearnsecurity.com/certificates/f077266f-124a-4c39-abce-e7f3cfeb2f8e)
