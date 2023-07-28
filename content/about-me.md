@@ -4,7 +4,7 @@ title: "about-me"
 
 selman konakçı aka selmankon
 
-cyber security specialist @ [Turkish Technology](https://www.turkishtechnology.com)
+application security engineer @ [Turkish Technology](https://www.turkishtechnology.com)
 
 #### research interest
 
