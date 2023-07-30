@@ -9,11 +9,11 @@ application security engineer @ [Turkish Technology](https://www.turkishtechnolo
 #### research interest
 
 * application security
-* exploit development
 * penetration testing
 * information security
 * web app development
-* cryptography & cryptanalysis
+* blockchain
+* cryptology
 
 #### certs
 
