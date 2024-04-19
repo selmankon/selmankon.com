@@ -6,7 +6,7 @@ title: "contact-me"
 
 **telegram:** [t.me/selmankon](https://t.me/selmankon)
 
-**discord:** selmankon#0454
+**discord:** selmankon
 
 **e-mail:** [mail@selmankon.com](mailto:mail@selmankon.com)
 
