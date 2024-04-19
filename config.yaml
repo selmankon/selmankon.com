@@ -44,9 +44,9 @@ menu:
     - name: about-me
       url: /about-me/
       weight: 2
-    - name: blog
-      url: https://blog.selmankon.com
-      weight: 3
+     #- name: blog
+     # url: https://blog.selmankon.com
+     # weight: 3
     - name: projects
       url: /projects/
       weight: 4
