@@ -1,12 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>home on selman konakçı</title><link>https://selmankon.com/</link><description>Recent content in home on selman konakçı</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://selmankon.com/index.xml" rel="self" type="application/rss+xml"/><item><title>about-me</title><link>https://selmankon.com/about-me/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://selmankon.com/about-me/</guid><description>selman konakçı aka selmankon
-application security engineer @ Turkish Technology
-research interest application security devsecops, SCA/SAST/DAST, source code review/audit, manual web/mobile application security tests penetration testing internal, external, active directory, wireless, web/mobile application information security web app development blockchain certs 05/24 - oscp 01/24 - crtp 12/23 - cap 04/23 - ewptx</description></item><item><title>contact-me</title><link>https://selmankon.com/contact-me/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://selmankon.com/contact-me/</guid><description>linkedin: selman konakçı
-telegram: t.me/selmankon
-discord: selmankon
-e-mail: mail@selmankon.com
-github: selmankon</description></item><item><title>projects</title><link>https://selmankon.com/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://selmankon.com/projects/</guid><description>some of my projects are below.
-c-honeypot &amp;amp; c-honeypot-panel w/zek open one (or more) port containing honey with c-honeypot, and monitor the activities performed by attackers using c-honeypot-adminpanel.
-https://github.com/selmankon/c-honeypot https://github.com/selmankon/c-honeypot-adminpanel threader3003 multi-threaded port scan helper tool for ctfs.
-https://github.com/selmankon/threader3003 csrf-poc-generator-26 generate a csrf attack proof-of-concept form for a given request in online.
-https://github.com/selmankon/CSRF-PoC-Generator-26 igAnalyzer find non-followers and potential stalkers.
-https://github.com/selmankon/igAnalyzer graph calculator create graphs the graphical representation of mathematical equations to the user via a visual interface with matplotlib, numpy, tkinter.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>home on selman konakçı</title><link>https://selmankon.com/</link><description>Recent content in home on selman konakçı</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://selmankon.com/index.xml" rel="self" type="application/rss+xml"/><item><title>about-me</title><link>https://selmankon.com/about-me/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://selmankon.com/about-me/</guid><description>&lt;p>selman konakçı aka selmankon&lt;/p>
+&lt;p>application security engineer @ &lt;a href="https://www.turkishtechnology.com">Turkish Technology&lt;/a>&lt;/p>
+&lt;h4 id="research-interest">research interest&lt;/h4>
+&lt;ul>
+&lt;li>application security
+&lt;ul>
+&lt;li>devsecops, SCA/SAST/DAST, source code review/audit, manual web/mobile application security tests&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>penetration testing
+&lt;ul>
+&lt;li>internal, external, active directory, wireless, web/mobile application&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>information security&lt;/li>
+&lt;li>web app development&lt;/li>
+&lt;li>blockchain&lt;/li>
+&lt;/ul>
+&lt;h4 id="certs">certs&lt;/h4>
+&lt;ul>
+&lt;li>05/24 - &lt;a href="https://www.credential.net/be494a65-5f50-4f53-ab2d-04293bdbfdc6">oscp&lt;/a>&lt;/li>
+&lt;li>01/24 - &lt;a href="https://www.credential.net/50972f39-b528-4066-8cc2-9f6f4cfe9359">crtp&lt;/a>&lt;/li>
+&lt;li>12/23 - &lt;a href="https://www.linkedin.com/feed/update/urn:li:activity:7132665600773898241/">cap&lt;/a>&lt;/li>
+&lt;li>04/23 - &lt;a href="https://verified.elearnsecurity.com/certificates/f077266f-124a-4c39-abce-e7f3cfeb2f8e">ewptx&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>contact-me</title><link>https://selmankon.com/contact-me/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://selmankon.com/contact-me/</guid><description>&lt;p>&lt;strong>linkedin:&lt;/strong> &lt;a href="https://www.linkedin.com/in/selmankonakci/">selman konakçı&lt;/a>&lt;/p>
+&lt;p>&lt;strong>telegram:&lt;/strong> &lt;a href="https://t.me/selmankon">t.me/selmankon&lt;/a>&lt;/p>
+&lt;p>&lt;strong>discord:&lt;/strong> selmankon&lt;/p>
+&lt;p>&lt;strong>e-mail:&lt;/strong> &lt;a href="mailto:mail@selmankon.com">mail@selmankon.com&lt;/a>&lt;/p>
+&lt;p>&lt;strong>github:&lt;/strong> &lt;a href="https://github.com/selmankon">selmankon&lt;/a>&lt;/p></description></item><item><title>projects</title><link>https://selmankon.com/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://selmankon.com/projects/</guid><description>&lt;p>some of my projects are below.&lt;/p>
+&lt;h3 id="npm-fuzzer">npm-fuzzer&lt;/h3>
+&lt;p>find npm libraries and versions on the website&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/selmankon/npm-fuzzer">https://github.com/selmankon/npm-fuzzer&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="html-smuggling-payload-generator">HTML-Smuggling-Payload-Generator&lt;/h3>
+&lt;p>html smuggler generator to download payload.exe as soon as the website is entered&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/selmankon/HTML-Smuggling-Payload-Generator">https://github.com/selmankon/HTML-Smuggling-Payload-Generator&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="c-honeypot--c-honeypot-panel-wzek">c-honeypot &amp;amp; c-honeypot-panel w/zek&lt;/h3>
+&lt;p>open one (or more) port containing honey with c-honeypot, and monitor the activities performed by attackers using c-honeypot-adminpanel.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/selmankon/c-honeypot">https://github.com/selmankon/c-honeypot&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/selmankon/c-honeypot-adminpanel">https://github.com/selmankon/c-honeypot-adminpanel&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="threader3003">threader3003&lt;/h3>
+&lt;p>multi-threaded port scan helper tool for ctfs.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/selmankon/threader3003">https://github.com/selmankon/threader3003&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="csrf-poc-generator-26">csrf-poc-generator-26&lt;/h3>
+&lt;p>generate a csrf attack proof-of-concept form for a given request in online.&lt;/p></description></item></channel></rss>
