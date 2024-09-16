@@ -4,6 +4,18 @@ title: "projects"
 
 some of my projects are below.
 
+### npm-fuzzer
+
+find npm libraries and versions on the website
+
+* https://github.com/selmankon/npm-fuzzer
+
+### HTML-Smuggling-Payload-Generator
+
+html smuggler generator to download payload.exe as soon as the website is entered
+
+* https://github.com/selmankon/HTML-Smuggling-Payload-Generator
+
 ### c-honeypot & c-honeypot-panel w/zek
 
 open one (or more) port containing honey with c-honeypot, and monitor the activities performed by attackers using c-honeypot-adminpanel.
