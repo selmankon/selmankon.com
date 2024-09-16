@@ -2,8 +2,6 @@
 title: "projects"
 ---
 
-some of my projects are below.
-
 ### npm-fuzzer
 
 find npm libraries and versions on the website
