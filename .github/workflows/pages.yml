@@ -3,7 +3,7 @@ name: GitHub Pages
 
 on:
   push:
-    branches: main
+    branches: njs
   workflow_dispatch:
 
 permissions:
