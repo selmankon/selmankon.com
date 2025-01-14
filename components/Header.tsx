@@ -7,7 +7,7 @@ import SearchButton from './SearchButton'
 import Image from './Image'
 
 const Header = () => {
-  let headerClass = 'flex items-center w-full bg-white dark:bg-gray-950 justify-between py-10'
+  let headerClass = 'flex w-full items-center justify-between bg-white py-10 dark:bg-gray-950'
   if (siteMetadata.stickyNav) {
     headerClass += ' sticky top-0 z-50'
   }
@@ -20,7 +20,7 @@ const Header = () => {
             <Image src="/static/images/logo.webp" alt="logo" width={40} height={40} />
           </div>
           {typeof siteMetadata.headerTitle === 'string' ? (
-            <div className="hidden text-2xl font-semibold sm:block flex items-center">
+            <div className="flex hidden items-center text-2xl font-semibold sm:block">
               {siteMetadata.headerTitle}
             </div>
           ) : (

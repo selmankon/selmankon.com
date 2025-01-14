@@ -11,10 +11,7 @@ export default function Footer() {
           <SocialIcon kind="github" href={siteMetadata.github} size={6} />
           <SocialIcon kind="linkedin" href={siteMetadata.linkedin} size={6} />
         </div>
-
-        <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
-          selmankon.com
-        </div>
+        <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">selmankon.com</div>
       </div>
     </footer>
   )

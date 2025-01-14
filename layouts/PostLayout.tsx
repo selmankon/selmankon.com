@@ -89,26 +89,23 @@ export default function PostLayout({ content, authorDetails, next, prev, childre
             </dl>
             <div className="divide-y divide-gray-200 dark:divide-gray-700 xl:col-span-3 xl:row-span-2 xl:pb-0">
               <div className="prose max-w-none pb-8 pt-10 dark:prose-invert">{children}</div>
-
-
             </div>
             <footer>
               <div className="divide-gray-200 text-sm font-medium leading-5 dark:divide-gray-700 xl:col-start-1 xl:row-start-2 xl:divide-y">
-              {content.toc && (
-                <div className="py-4 xl:py-8">
-                  <h2 className="text-xs uppercase tracking-wide text-gray-500 dark:text-gray-400">
-                    Table of Contents
-                  </h2>
-                  <TOCInline 
-                    toc={content.toc} 
-                    exclude="Overview" 
-                    toHeading={3} 
-                    asDisclosure={false} 
-                    ulClassName="text-primary-500 [&_li_li]:ml-4 max-w-[15rem] [&_a]:truncate [&_a]:block" 
-                  />
-                </div>
-              )}
-
+                {content.toc && (
+                  <div className="py-4 xl:py-8">
+                    <h2 className="text-xs uppercase tracking-wide text-gray-500 dark:text-gray-400">
+                      Table of Contents
+                    </h2>
+                    <TOCInline
+                      toc={content.toc}
+                      exclude="Overview"
+                      toHeading={3}
+                      asDisclosure={false}
+                      ulClassName="text-primary-500 [&_li_li]:ml-4 max-w-[15rem] [&_a]:truncate [&_a]:block"
+                    />
+                  </div>
+                )}
                 {(next || prev) && (
                   <div className="flex justify-between py-4 xl:block xl:space-y-8 xl:py-8">
                     {prev && prev.path && (

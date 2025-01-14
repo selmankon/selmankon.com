@@ -3,9 +3,11 @@ import path from 'path'
 import { slug } from 'github-slugger'
 import { escape } from 'pliny/utils/htmlEscaper.js'
 import siteMetadata from '../data/siteMetadata.js'
-import tagData from '../app/tag-data.json' assert { type: 'json' }
 import { allBlogs } from '../.contentlayer/generated/index.mjs'
 import { sortPosts } from 'pliny/utils/contentlayer.js'
+import { createRequire } from 'module'
+const require = createRequire(import.meta.url)
+const tagData = require('../app/tag-data.json')
 
 const outputFolder = process.env.EXPORT ? 'out' : 'public'
 

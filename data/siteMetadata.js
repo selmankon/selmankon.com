@@ -45,7 +45,10 @@ const siteMetadata = {
     provider: 'kbar', // kbar or algolia
     kbarConfig: {
       searchDocumentsPath: `${process.env.BASE_PATH || ''}/search.json`, // path to load documents to search
-    }
+    },
+  },
+  newsletter: {
+    provider: 'none',
   },
 }
 
