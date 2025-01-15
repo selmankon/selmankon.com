@@ -98,11 +98,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <ThemeProviders>
           <Analytics analyticsConfig={siteMetadata.analytics as AnalyticsConfig} />
           <SectionContainer>
-            <SearchProvider searchConfig={siteMetadata.search as SearchConfig}>
-              <Header />
-              <main className="mb-auto">{children}</main>
-            </SearchProvider>
-            <Footer />
+            <div className="flex min-h-screen flex-col">
+              <SearchProvider searchConfig={siteMetadata.search as SearchConfig}>
+                <Header />
+                <main className="flex-grow">{children}</main>
+              </SearchProvider>
+              <Footer />
+            </div>
           </SectionContainer>
         </ThemeProviders>
       </body>
