@@ -4,7 +4,7 @@ import { slug } from 'github-slugger'
 import tagData from 'app/tag-data.json'
 import { genPageMetadata } from 'app/seo'
 
-export const metadata = genPageMetadata({ title: 'Tags', description: 'Things I blog about' })
+export const metadata = genPageMetadata({ title: 'tags', description: 'Things I blog about' })
 
 export default async function Page() {
   const tagCounts = tagData as Record<string, number>
@@ -26,7 +26,7 @@ export default async function Page() {
                 <Tag text={t} />
                 <Link
                   href={`/tags/${slug(t)}`}
-                  className="-ml-2 text-sm font-semibold uppercase text-gray-600 dark:text-gray-300"
+                  className="-ml-2 text-sm font-semibold text-gray-600 dark:text-gray-300"
                   aria-label={`View posts tagged ${t}`}
                 >
                   {` (${tagCounts[t]})`}
